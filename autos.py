@@ -5,6 +5,7 @@ def calcular_precio(marca, puerta, color):  #entran los valores metidos a mano p
     precio=marcas[marca]+puertas[puerta]+colores[color]
     return precio
 
+print("---Bienvenido a CarJoaqui----")
 
 mas_clientes= "si"
 ventas=[]  #meto aca todas las ventas que tuve, array vacio
